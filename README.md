@@ -1,2 +1,2 @@
 # hello-world
-test hello world setup
+Edited version of readme for hello world setup
